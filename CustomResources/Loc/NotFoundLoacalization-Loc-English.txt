@@ -1,0 +1,1 @@
+8&type&shipsAmount&battleSize&playerShip&battleDurationMultipier&lightShipsWeight&averageShipsWeight&heavyShipsWeight&

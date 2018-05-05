@@ -1,0 +1,1 @@
+4&localization&Russian&Encoding&1251&Sound&False&ShipTutorial&False&
